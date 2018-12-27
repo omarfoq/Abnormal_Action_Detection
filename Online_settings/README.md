@@ -1,4 +1,4 @@
-#Real-world Anomaly Detection in Surveillance Videos
+# Real-world Anomaly Detection in Surveillance Videos
 
 In this section we try to reproduce the result of Sultani et al. (2018). The figure above describes the model of Sultani :
 
