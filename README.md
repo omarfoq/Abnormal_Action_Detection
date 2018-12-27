@@ -6,4 +6,4 @@ Therefore we will combine the method porposed by Waqas Sultani et al.(2018) with
 
 ## Real-world Anomaly Detection in Surveillance Videos : 
 
-In this section we reproduce the results of Sultani et al.(2018)
+In this section we reproduce the results of Sultani et al.(2018). In this part we work in offline settings, and we are only interested in temporal detection.
